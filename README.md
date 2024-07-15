@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lahari096&label=Profile%20views&color=0e75b6&style=flat" alt="lahari096" /> </p>
 
-- 🔭 I’m currently working on **React,JAVA,JavaScript.**
+- 🔭 I’m currently working on **SQL,Python,Data Analysis.**
 
-- 🌱 I’m currently learning **Springboot,MongoDB,Python**
+- 🌱 I’m currently learning **Machine Learning,Data Visualization,Advanced Excel**
 
 - 👨‍💻 All of my projects are available at [https://lahari096.github.io/portfolio/](https://lahari096.github.io/portfolio/)
 
